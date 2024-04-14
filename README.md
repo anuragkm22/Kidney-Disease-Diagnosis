@@ -1,6 +1,6 @@
 ##Deep Learning end to end project for finding kideney disease##
-Kidney-Disease-Classification-MLflow-DVC
-Workflows
+# Kidney-Disease-Classification
+# Workflows
 Update config.yaml
 Update secrets.yaml [Optional]
 Update params.yaml
@@ -11,11 +11,8 @@ Update the pipeline
 Update the main.py
 Update the dvc.yaml
 app.py
-How to run?
-STEPS:
-Clone the repository
+# How to run?
 
-https://github.com/krishnaik06/Kidney-Disease-Classification-Deep-Learning-Project
 STEP 01- Create a conda environment after opening the repository
 conda create -n cnncls python=3.8 -y
 conda activate cnncls
@@ -24,5 +21,4 @@ pip install -r requirements.txt
 # Finally run the following command
 python app.py
 Now,
-
 open up you local host and port
