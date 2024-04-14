@@ -1,7 +1,7 @@
 ##Deep Learning end to end project for finding kideney disease##
 # Kidney-Disease-Classification
 # Workflows
-Update config.yaml
+Update config.yaml \b
 Update secrets.yaml [Optional]
 Update params.yaml
 Update the entity
